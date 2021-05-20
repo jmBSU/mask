@@ -1,5 +1,5 @@
 # MASK
-This is a holding place for a MASK project repos.
+This is a holding place for a MASK project repos as well as where the summary and code explanation resides.
 
 MASK project is a Senior Design Project sponsored by the Micron Foundation to make a Smart Mask.
 
